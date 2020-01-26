@@ -1,16 +1,10 @@
 * DummyContestantName - [Link to resume](link to resume)
 * Varun Bhardwaj - [https://resume.github.io/?starboi02](https://resume.github.io/?starboi02)
 * Arpit Agarwal- [https://resume.github.io/?aarpit1010](https://resume.github.io/?aarpit1010)
-* pradhuman1-(http://resume.github.io/?pradhuman1)
-* Janit Lodha - [http://resume.github.io/?JLodha](http://resume.github.io/?JLodha)
-* Shreyas Gupta - [https://resume.github.io/?sggts04](https://resume.github.io/?sggts04)
 * Yash Mishra - [https://resume.github.io/?codedude1](https://resume.github.io/?codedude1)
-* pradhuman1 - [http://resume.github.io/?pradhuman1](http://resume.github.io/?pradhuman1)
 * Janit Lodha - [http://resume.github.io/?JLodha](http://resume.github.io/?JLodha)
-* Shreyas Gupta - [https://resume.github.io/?sggts04](https://resume.github.io/?sggts04)
 * Prasanth Kota - [https://resume.github.io/?Evadore](https://resume.github.io/?Evadore)
 * pradhuman1-(http://resume.github.io/?pradhuman1)
-* Janit Lodha - [http://resume.github.io/?JLodha](http://resume.github.io/?JLodha)
 * Shreyas Gupta - [https://resume.github.io/?sggts04](https://resume.github.io/?sggts04)
 * Mridul Mittal - [ https://resume.github.io/?Mridul20]( https://resume.github.io/?Mridul20)
 * Vishwas Singh - [https://resume.github.io/?infern018](https://resume.github.io/?infern018)
@@ -23,5 +17,10 @@
 * Aaryan Bhardwaj - [https://resume.github.io/?uglyprincess](https://resume.github.io/?uglyprincess)
 * Manish Kumar - [https://resume.github.io/?manish-kumar-2000](https://resume.github.io/?manish-kumar-2000)
 * Riya Jawandhiya - [https://resume.github.io/?riyaJ2311][https://resume.github.io/?riyaJ2311]
+* Amit jain- [https://resume.github.io/?amit2223](https://resume.github.io/?amit2223)
+* Ekansh Nishad - [https://resume.github.io/?EkanshNishad](https://resume.github.io/?EkanshNishad)
+* Kaushal Sahu - [https://resume.github.io/?KaushalSahu](https://resume.github.io/?KaushalSahu)
+* Sanskar Patro - [https://resume.github.io/?sanskar-p](https://resume.github.io/?sanskar-p)
+* Garvit Chittora - [https://resume.github.io/?garvitchittora](https://resume.github.io/?garvitchittora)
 
 
